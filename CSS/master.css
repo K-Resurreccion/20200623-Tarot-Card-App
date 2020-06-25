@@ -13,3 +13,11 @@ footer {
   height: 50px;
 }
 
+.card {
+    background-color: black;
+    text-align: center;
+    color: white;
+    min-height: 100px;
+    min-width: 100px;
+    max-width: 100px;
+}
